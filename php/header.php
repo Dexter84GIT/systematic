@@ -18,7 +18,8 @@
                     <li><a href="#ecommerce">Разработка и поддержка интернет-магазинов</a></li>
                     <li><a href="#bitrix">Внедрение BITRIX, оптимизация воронок</a></li>
                     <li><a href="#one-c">Разработка и доработка бухгалтерских и финансовых систем на базе 1С</a></li>
-                    <li><a href="#unix">Администрирование UNIX и WINDOWS серверов </a></li>
+                    <li><a href="#unix">Администрирование UNIX и WINDOWS серверов</a></li>
+                    <li><a href="#prices">Цены</a></li>
                 </ul>
             </li>
             <li><a href="#contacts">Контакты</a></li>

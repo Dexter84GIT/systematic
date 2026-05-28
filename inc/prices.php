@@ -1,7 +1,7 @@
-	<section class="prices df fdc aife">
+	<section class="prices df fdc aife" id="prices">
 		<div class="container df fdc aic">
-			<p class="projects-list-title">Прейскурант работ:</p>
 			<div class="services-list df fdc">
+				<p class="projects-list-title">Прейскурант работ:</p>
 				<div class="row df aifs jcsb">
 					<p class="name"><b>Услуга:</b></p>
 					<p class="code"><b>Код:</b></p>
